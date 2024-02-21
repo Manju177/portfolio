@@ -6,6 +6,9 @@ import Work from "./Work";
 import Footer from "./Footer";
 
 const Home = () => {
+    const handleResume=()=>{
+    window.location.assign(pdf);
+  }
   return (
     <>
       <div className="home" id="home">
