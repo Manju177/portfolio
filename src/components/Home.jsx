@@ -1,6 +1,6 @@
 import React from "react";
 import vg from "../assets/coder.avif";
-
+import pdf from '../assets/Manju-resume.pdf';
 import Services from "./Services";
 import Work from "./Work";
 import Footer from "./Footer";
