@@ -12,6 +12,7 @@ const Home = () => {
         <main>
           <h1>Manjunath P</h1>
           <p>Software Engineer, Front End Developer</p>
+          <button className="resumeBtnStyle" onClick={handleResume} >Resume</button>
         </main>
       </div>
  

@@ -39,6 +39,19 @@
     border-radius: 0 0 200px 200px;
   }
 }
+.resumeBtnStyle{
+  margin: 2rem 0;
+  padding: 0.6rem;
+  border: none;
+  border-radius: 5px;
+  background-color: $third;
+  color: $first;
+  width: 200px;
+  font: 500 1rem $text1;
+  &:hover {
+    opacity: 0.9;
+  }
+}
 
 .serviceHeading{
   color: #ffffff;
